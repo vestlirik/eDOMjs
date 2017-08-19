@@ -1,0 +1,25 @@
+{
+  "name": "edom",
+  "version": "0.0.1",
+  "description": "JavaScript library for easily DOM manipulating",
+  "main": "edom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vestlirik/eDOMjs.git"
+  },
+  "keywords": [
+    "vanilla",
+    "dom",
+    "manipulating",
+    "html"
+  ],
+  "author": "Viktor Kyryltsev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vestlirik/eDOMjs/issues"
+  },
+  "homepage": "https://github.com/vestlirik/eDOMjs#readme"
+}
