@@ -1,6 +1,6 @@
 {
   "name": "edom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "JavaScript library for easily DOM manipulating",
   "main": "edom.js",
   "scripts": {

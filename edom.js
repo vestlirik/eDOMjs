@@ -5,7 +5,7 @@
         var id;
         var attrs = [];
         var minIndex = getWholeWord(query);
-        if (minIndex > -1) {
+        if (minIndex > 0) {
             creatingEl = query.substring(0, minIndex);
             query = query.substring(minIndex);
         }
