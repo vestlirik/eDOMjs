@@ -38,6 +38,10 @@
                     break;
                 case ' ':
                     break;
+                default:
+                    creatingEl = query;
+                    query = "";
+                    break;
             }
             query = query.substring(value.length + 1);
         }
